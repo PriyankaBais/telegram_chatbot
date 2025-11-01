@@ -1,3 +1,4 @@
-BOT_API='6990130787:AAE4wu7Ewl1XrPGnL_3DE0dFKFkaXw-waHg'
-OPENAI_KEY='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'
-myid='Vksp@16'
+BOT_API=''
+OPENAI_KEY=''
+
+myid=''
