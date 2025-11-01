@@ -1,4 +1,5 @@
-BOT_API=''
-OPENAI_KEY=''
+BOT_API='KEY'
+OPENAI_KEY='KEY'
 
-myid=''
+myid='KEY'
+
